@@ -1,6 +1,6 @@
 ---
 created: 2023-10-19T09:51
-updated: 2023-11-19T16:55
+updated: 2023-11-19T17:10
 ---
 # Otus network engineer pro
 ---
