@@ -11,6 +11,7 @@ tags:
 
 ## Топология
 ![](Pasted%20image%2020231019115607.png)
+![attachments](https://github.com/2lama2/otus_engineer_pro/blob/master/attachments/Pasted%20image%2020231019115607.png?raw=true)
 ## Таблица адресации
 <table>
 <thead>
