@@ -6,6 +6,7 @@ updated: 2023-10-21T12:12
 
 ## Топология
 ![](2023-10-21_11-36-27.png)
+![attachments](https://github.com/2lama2/otus_engineer_pro/blob/master/attachments/2023-10-21_11-36-27.png?raw=true)
 ## Таблица адресации
 <table>
 <thead>
